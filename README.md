@@ -33,6 +33,8 @@ sudo -u eqemu rsync -vr server/  ~eqemu/
 
 ### Configuration
 
+Create an [OpenAI API key](https://platform.openai.com/api-keys).
+
 Add your OpenAI API key to the end of your `eqemu_config.json` file:
 
 ```json
